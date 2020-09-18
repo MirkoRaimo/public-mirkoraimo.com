@@ -1,0 +1,11 @@
+const CAT_EATS_APPLES = "The cat eats the apples";
+const CAT_EATS_APPLES_PATH_PNG = "assets/drawingApp/DrawingApp.png";
+const DB_PARTY_GAMES_COLLECTION = "partyGames";
+const DB_ROOMS = "rooms";
+const DB_CAT_EATS_APPLES = "catEatsApples";
+const DB_ELEMENT_ROOM_NAME = "roomName";
+const DB_ELEMENT_ROOM_PASSWORD = "roomPassword";
+const DB_ELEMENT_USER_OWNER = "userOwner";
+const DB_ELEMENT_USERS = "users";
+const DB_ELEMENT_DT_INS = "dtIns"; //inserting date
+const DB_ROOM_PATH = <String, String> {CAT_EATS_APPLES : DB_CAT_EATS_APPLES};

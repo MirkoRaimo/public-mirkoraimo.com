@@ -1,0 +1,11 @@
+const String HOME_ROUTE = "/Home";
+const String WELCOME_ROUTE = "/Welcome";
+const String FOOD_MINIMAL_UI_ROUTE = "/Food_Minimal_UI";
+const String YOUTUBE_CLONE = "/Youtube_Clone";
+const String DRAWING_APP = "/Drawing_App";
+const String COUNTER_REDUX = "/Counter_Redux";
+const String SNAKE_GAME = "/Snake_Game";
+const String TINDER_SWIPE_CARDS = "/Tinder_Swipe_Cards";
+const String PARTY_GAMES_HOME = "/Party_Games_home";
+const String PG_SEARCH_ROOM = "/Party_Games_Search_Room";
+const String PG_ROOM_PAGE = "/Party_Games_Room_Page";

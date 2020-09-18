@@ -1,0 +1,19 @@
+Per lanciare l'app in debug da chrome ed avere la porta 8080
+(che è nella whitelist per l'autenticazione con google account)
+flutter run -d chrome --web-port=8080
+
+Per buildare il sito web, utilizzare
+flutter build web
+
+Per deployare il sito su hosting firebase, usare
+firebase deploy
+
+Se appare Waiting for another flutter command to release the startup lock...
+
+
+To run DevTools, use:
+flutter pub global run devtools   # If you have `flutter` on your path
+
+Se appare:
+Questo browser o questa app potrebbero non essere sicuri.
+Copia l'url dell'indirizzo locale in un'altra istanza di chrome e dovrebbe funzionare
