@@ -2,8 +2,8 @@
 
 Welcome to the public version of the Flutter source code of the site https://mirkoraimo.com/
 
-I'm sorry if this you can't see all the file of this project,
-but it likes to be a little mysterious and have some little secrets! ;) 
+I'm sorry if this you can't see all the files of this project,
+but it likes to be a little mysterious and keeping some little secrets! ;) 
 
 By the way, if you like Flutter, check out the resources below:
 
